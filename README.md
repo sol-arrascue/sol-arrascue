@@ -6,7 +6,8 @@
 - 🌱 I’m currently using/learning Azure, AWS, GCP also architecture and DevOps tool sets.
 - 📫 I hope that you find my work useful and if you do have any suggestions, you can reach out to me.
 
-<img width="205" alt="image" src="https://user-images.githubusercontent.com/102182984/220927614-bfe9dc10-8938-4bf9-a59e-27cd831969fb.png">
+<img width="266" alt="image" src="https://user-images.githubusercontent.com/102182984/220928228-1497fa3b-b086-4733-acd5-dfdaa506d25a.png">
+
 
 ### Gracias 🦖
 
