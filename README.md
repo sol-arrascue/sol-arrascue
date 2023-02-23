@@ -3,7 +3,7 @@
 
 🔭 **I’m self-motivated, driven and passionate about my career. I love spending time with my family, friends, my plants. I like manga, traditional Peruvian folklore, salsa and traveling.**
 - 🌱 I’m currently using/learning Azure, AWS, GCP also architech and DevOps tool sets.
-- 📫 How to reach me: I hope that you find my work useful and if you do have any suggestions, you can reach out to me.
+- 📫 I hope that you find my work useful and if you do have any suggestions, you can reach out to me.
 ### Gracias 🦖
 
 <!--
