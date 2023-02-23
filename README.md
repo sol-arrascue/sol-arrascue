@@ -3,10 +3,10 @@
 
 🔭 **I’m self-motivated, driven and passionate about my career. I love spending time with my family, friends, my plants. I like manga comics and movies, traditional Peruvian folklore, salsa and traveling.**
 
-- 🌱 I’m currently using/learning Azure, AWS, GCP also architecture and DevOps tool sets.
+- 🌱 I’m currently using/learning Azure, AWS, GCP also architecture and DevOps tool sets :shipit:
 - 📫 I hope that you find my work useful and if you do have any suggestions, you can reach out to me :+1:
 
-**My ✨ skills :shipit:**
+**My ✨ skills ✨**
 
 <img width="271" alt="image" src="https://user-images.githubusercontent.com/102182984/220932359-f365349b-df5e-4252-9dae-408368b1683c.png">
 
