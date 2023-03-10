@@ -3,7 +3,7 @@
 
 🔭 **I’m self-motivated, driven and passionate about my career. I love spending time with my family, friends, my plants. I like manga comics and movies, traditional Peruvian folklore, salsa and traveling.**
 
-- 🌱 I’m currently using/learning Azure, AWS, GCP also architecture and DevOps tool sets :shipit:
+- 🌱 I’m currently using/learning Azure, AWS, GCP architecture and DevOps tool sets :shipit:
 - 📫 I hope that you find my work useful and if you do have any suggestions, you can reach out to me :+1:
 
 **My ✨ skills ✨**
