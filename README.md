@@ -1,7 +1,7 @@
 ### Hola there, I'm Sol👋
 <img width="78" alt="image" src="https://user-images.githubusercontent.com/102182984/220896586-897a4f57-5f4d-43f2-a0b7-3f76ce2d0ae6.png">
 
-🔭  I'm Systems Engineer professional with certifications, excellent knowledge of coding systems, strong knowledge and comfort within Microsoft/Linux based server environments and experience in DevOps ( Multi-cloud ), databases, mentoring, management, analytical skills, architecture, developing and deploying server, network, cloud technologies.
+🔭  I'm Systems Engineer professional with certifications, excellent knowledge of coding systems, AI, strong knowledge and comfort within Microsoft/Linux based server environments and experience in DevOps ( Multi-cloud ), databases, mentoring, management, analytical skills, architecture, developing and deploying server, network, cloud technologies.
 
 I’m self-motivated, driven and passionate about my career. I love spending time with my family, friends, my plants. I like manga comics and movies, traditional Peruvian folklore, salsa and travel.
 
