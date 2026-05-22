@@ -1,12 +1,12 @@
 ### Hola there, I'm Sol👋
 <img width="78" alt="image" src="https://user-images.githubusercontent.com/102182984/220896586-897a4f57-5f4d-43f2-a0b7-3f76ce2d0ae6.png">
 
-🔭  I'm Systems Engineer professional with certifications, excellent knowledge of coding systems, experienced building AI agents, strong knowledge and comfort within Microsoft/Linux based server environments and experience in DevOps ( Multi-cloud ), databases, mentoring, management, analytical skills, architecture, developing and deploying server, network, cloud technologies.
+🔭  I'm Systems Engineer professional with certifications, with deep expertise across the full technology stack — from infrastructure and networking to AI agent development and cloud-native architecture. I bring hands-on experience designing, deploying, and scaling solutions across Microsoft and Linux environments, with a strong DevOps mindset spanning AWS, Azure, and GCP..
 
-I’m self-motivated, driven and passionate about my career. I love spending time with my family, friends, my plants. I like manga comics and movies, traditional Peruvian folklore, salsa and travel. My favorite place in the world is Machu Picchu in Peru.
+I’m self-motivated, driven and passionate about my career. When I’m not architecting systems, you’ll find me with family and friends, tending to my plants, diving into manga and films, enjoying traditional Peruvian folklore and salsa  or dreaming about my favorite place on Earth: Machu Picchu in Peru.
 
 - 🌱 I’m currently using Azure, AWS, GCP architecture, DevOps tool sets, AI. :shipit:
-- 📫 I hope that you find my work useful and if you do have any suggestions, you can reach out to me :+1:
+- 📫 I hope you find my work useful! Feedback, ideas, and collaboration are always welcome feel free to reach out
 
 **My ✨ skills ✨**
 
