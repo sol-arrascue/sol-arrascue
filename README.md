@@ -3,7 +3,7 @@
 
 🔭  I'm Systems Engineer professional with certifications, with deep expertise across the full technology stack, from infrastructure and networking to AI agent development and cloud-native architecture. I bring hands-on experience designing, deploying, and scaling solutions across Microsoft and Linux environments, with a strong DevOps mindset spanning AWS, Azure, and GCP..
 
-I’m self-motivated, driven and passionate about my career. When I’m not architecting systems, you’ll find me with family and friends, tending to my plants, diving into manga and films, enjoying traditional Peruvian folklore and salsa  or dreaming about my favorite place on Earth: Machu Picchu in Peru.
+I’m self-motivated, driven and passionate about my career. When I’m not architecting systems, you’ll find me with family and friends, tending to my plants, diving into manga and anime films, enjoying traditional Peruvian folklore and salsa  or dreaming about my favorite place on Earth: Machu Picchu in Peru.
 
 - 🌱 I’m currently using Azure, AWS, GCP architecture, DevOps tool sets, AI. :shipit:
 - 📫 I hope you find my work useful! Feedback, ideas, and collaboration are always welcome feel free to reach out
