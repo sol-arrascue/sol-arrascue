@@ -12,6 +12,13 @@ I’m self-motivated, driven and passionate about my career. When I’m not work
 
 <img width="271" alt="image" src="https://user-images.githubusercontent.com/102182984/220932359-f365349b-df5e-4252-9dae-408368b1683c.png">
 
+AWS:-
+https://www.credly.com/users/sol-arrascue-vega/badges#credly
+Azure:- 
+https://learn.microsoft.com/api/achievements/share/en-us/Sol-7984/82HAAR4W?sharingId=9CE0E2FCA3434488
+https://learn.microsoft.com/api/achievements/share/en-us/Sol-7984/DUB66HEJ?sharingId=9CE0E2FCA3434488
+https://learn.microsoft.com/api/credentials/share/en-us/SolArrascue-3938/E75BD3D2BA8D8996?sharingId=C5B22FCE4E3E90A6
+ 
 <a href="https://www.buymeacoffee.com/solarrascue" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ### Gracias 🦖
