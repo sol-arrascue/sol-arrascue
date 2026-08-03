@@ -13,7 +13,8 @@ I’m self-motivated, driven and passionate about my career. When I’m not work
 <img width="271" alt="image" src="https://user-images.githubusercontent.com/102182984/220932359-f365349b-df5e-4252-9dae-408368b1683c.png">
 
 AWS:-
-https://www.credly.com/users/sol-arrascue-vega/badges#credly
+https://www.credly.com/users/sol-arrascue-vea/badges#credly
+
 Azure:- 
 https://learn.microsoft.com/api/achievements/share/en-us/Sol-7984/82HAAR4W?sharingId=9CE0E2FCA3434488
 https://learn.microsoft.com/api/achievements/share/en-us/Sol-7984/DUB66HEJ?sharingId=9CE0E2FCA3434488
