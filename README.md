@@ -14,8 +14,10 @@ I’m self-motivated, driven and passionate about my career. When I’m not work
 
 AWS, Claude:-
 https://www.credly.com/users/sol-arrascue-vea/badges#credly
+
 Google:- 
 https://partner.skills.google/public_profiles/2202757a-a5c7-45cf-9c6f-d07413ee7ae1
+
 Azure:- 
 https://learn.microsoft.com/api/achievements/share/en-us/Sol-7984/82HAAR4W?sharingId=9CE0E2FCA3434488
 https://learn.microsoft.com/api/achievements/share/en-us/Sol-7984/DUB66HEJ?sharingId=9CE0E2FCA3434488
