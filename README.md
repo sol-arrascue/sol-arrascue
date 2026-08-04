@@ -12,7 +12,7 @@ I’m self-motivated, driven and passionate about my career. When I’m not work
 
 <img width="271" alt="image" src="https://user-images.githubusercontent.com/102182984/220932359-f365349b-df5e-4252-9dae-408368b1683c.png">
 
-AWS:-
+AWS, Claude:-
 https://www.credly.com/users/sol-arrascue-vea/badges#credly
 
 Azure:- 
